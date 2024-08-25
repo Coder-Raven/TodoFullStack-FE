@@ -1,4 +1,4 @@
-export const baseURL = "https://fakestoreapi.com";
+export const baseURL = "https://api.escuelajs.co/api/v1";
 
 export const endpoints = {
   LOGIN: "auth/login",
